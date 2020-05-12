@@ -1,0 +1,55 @@
+
+body {
+    
+    margin-left: 50px;
+}
+
+header {
+    margin-top: 70px;
+}
+
+div {
+    margin-left: 400px;
+
+
+}
+h1 {
+    color: navy;
+    font-family: courier;
+}
+
+h2 {
+    color: black;
+    font-family: courier;
+}
+
+p {
+    font-family: courier;
+    font-size: 18px;
+    color:wheat;
+}
+a {
+    font-family: courier;
+    color: wheat;
+    
+}
+
+
+ul {
+   
+}
+footer {
+    margin-bottom: 100px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 400px;
+}
+
+.logo {
+    width: 30px;
+    margin-bottom: 1px;
+    margin-inline: 1px;
+}
+

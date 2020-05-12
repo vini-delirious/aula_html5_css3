@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <title>Soluções em Tecnologia</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+    </head>
+
+    <body background="img/sombra fundo.jpg">
+        <nav>
+            
+            <ul>
+                <li>
+                    <a href="#servicos">SERVIÇOS</a>
+                </li>
+                <li>
+                    <a href="#quemsoueu">QUEM SOU EU</a>
+                </li>
+                <li>
+                    <a href="#contato">CONTATO</a>
+                </li>
+            </ul>
+        </nav>
+
+        <section id="servicos">
+            <h1>SERVIÇOS</h1>
+            <p>
+                Soluções em Tecnologia para sua empresa, realização de suporte tecnico, 
+            </p>
+            <p>analise e correção de erros em sistemas erp e web services, construção e manutenção</p>
+            <p>de sites e portfolios, manuntenção em servidores e redes.</p>
+        </section>
+
+        <section id="quemsoueu">
+            <h1>QUEM SOU EU</h1>
+            <p>Me chamo Marcus Vinicius e sou formado em bacharelado em sistemas de informação.</p>  
+            <p>Trabalho na area de tecnologia desde 2011.</p>   
+            <p>Tenho alguns certificados na area.</p>              
+        </section>
+
+        <section id="contato">
+            <h1>CONTATO</h1>
+            <p>
+                Entre em contato e tire as duvidas.
+            </p>
+            
+                <img src="img/email.png" class="logo">
+                <p><a href="mailto:mvm_soares@yahoo.com.br">mvm_soares@yahoo.com.br</a></p>
+            
+            
+                <img src="img/whats.jpg" class="logo">
+                <p><a href="tel:55+1196385-9048">11-975465550</a></p>
+
+                <img src="img/linkedinlogo.png" class="logo">
+                <p><a href="https://www.linkedin.com/in/marcusviniciusmonteirosoares/" target="_blank">\marcusviniciusmonteirosoares</a></p>
+            
+            
+                <img src="img/instagram-logo.png" class="logo">
+                <p><a href="https://www.instagram.com/vini_mvini/" target="_blank">@vini_mvini</a></p>
+
+            </section>
+            
+          
+           
+        
+    </body>
+
+</html>
